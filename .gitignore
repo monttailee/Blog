@@ -1,0 +1,7 @@
+/node_modules
+/logs
+/public
+/dist
+/package-lock.json
+.DS_Store
+.idea/
